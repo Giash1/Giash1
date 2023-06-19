@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giash Bhuiyan (Giash)</h1>
 <h3 align="center">A passionate Full-Stack-JavaScript Developer student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giash1&label=Profile%20views&color=0e75b6&style=flat" alt="giash1" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=giash1&label=Profile%20views&color=0e75b6&style=flat" alt="giash1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giash1" alt="giash1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giash1" alt="giash1" /></a> </p> -->
 
 - 🌱 I’m currently learning **Software life cycle management, react and typescript**
 
