@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giash1" alt="giash1" /></a> </p> -->
 
-- 🌱 I have completed two years higher vocanional degree in JavaScript recently**
+- 🌱 I have completed two years higher vocanional degree in Full-Stack-JavaScript Developer recently**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Giash1](https://github.com/Giash1)
 
