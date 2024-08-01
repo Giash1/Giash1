@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giash1" alt="giash1" /></a> </p> -->
 
-- 🌱 I’m currently learning **Software life cycle management, react and typescript**
+- 🌱 I have completed two years higher vocanional degree in JavaScript recently**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Giash1](https://github.com/Giash1)
 
-- 💬 Ask me about **Html, css, javascript, framework, node.js, sql, nosql, mongodb, postman,vue and so on.**
+- 💬 Ask me about **Html, css,scss javascript, framework, node.js, sql, nosql, mongodb, postman,vue, vuex react, react-native, typescript and so on.**
 
 - 📫 How to reach me **giashsw@gmail.com**
 
