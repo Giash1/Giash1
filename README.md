@@ -20,7 +20,7 @@
 
 [![Poschimgaon Madrasha]: 🌐 www.poschimgaonmadrasha.com
 
-[![Vi4dig Service AB] : https://vi4digserviceab.com/
+[![Vi4dig Service AB] : 🌐 www.vi4digserviceab.com
 
 
 <h3 align="left">Connect with me:</h3>
