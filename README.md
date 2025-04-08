@@ -14,7 +14,9 @@
 - 📫 How to reach me **giashsw@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Giash1/CV](https://github.com/Giash1/CV)
--## 🌐 Live Projects
+-##
+
+🌐 Live Projects
 
 [![Poschimgaon Madrasha]: https://www.poschimgaonmadrasha.com/
 
